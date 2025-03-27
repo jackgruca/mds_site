@@ -94613,7 +94613,8 @@ p===$&&A.b()
 if(p.d===0)A.ej(B.c9,new A.a69(m),t.P)
 p=m.r
 if(p!=null)p.vg()
-if(m.d){r=B.c.N(700/m.a.e)
+if(m.d){p=m.a.e
+r=B.c.N(2000/(p*p))
 A.ej(A.dg(0,r),m.gqq(),t.H)}}catch(n){q=A.a6(n)
 A.ap().$1("Error processing draft pick: "+A.j(q))
 m.J(new A.a6a(m,q))}},
@@ -94638,7 +94639,7 @@ if(s.a.length!==0){q=r.c
 q.toString
 A.fJ(!1,new A.a6J(r,s,a),q,t.z)}else{q=r.a.f
 if(q!=null&&B.b.n(q,a.b))r.Ho(a)
-else if(r.d)A.ej(A.dg(0,B.c.N(700/r.a.e)),r.gqq(),t.H)}},
+else if(r.d)A.ej(A.dg(0,B.c.N(2000/r.a.e)),r.gqq(),t.H)}},
 akB(a){var s,r,q,p=this
 if(p.r==null)return
 s=J.fK(p.at,new A.a6o(),t.N).hm(0)
@@ -94947,7 +94948,7 @@ A.a6G.prototype={
 $1(a){var s=this.a
 s.r.Xx(a)
 s.J(new A.a6F(s,a))
-A.ej(A.dg(0,B.c.N(700/s.a.e)),s.gqq(),t.H)},
+A.ej(A.dg(0,B.c.N(2000/s.a.e)),s.gqq(),t.H)},
 $S:56}
 A.a6F.prototype={
 $0(){var s=this.a
@@ -94961,7 +94962,7 @@ $S:0}
 A.a6H.prototype={
 $0(){var s=this.a,r=s.a.f
 if(r!=null&&B.b.n(r,this.b.b))s.Ho(this.b)
-else if(s.d)A.ej(A.dg(0,B.c.N(700/s.a.e)),s.gqq(),t.H)},
+else if(s.d)A.ej(A.dg(0,B.c.N(2000/s.a.e)),s.gqq(),t.H)},
 $S:0}
 A.a6I.prototype={
 $1(a){var s=this.a
@@ -95021,7 +95022,7 @@ $0(){var s,r,q=this
 A.bR(q.b,!1).fv(null)
 if(q.c){s=q.a
 s.J(new A.a6z(s))
-A.ej(A.dg(0,B.c.N(700/s.a.e)),s.gqq(),t.H)}else{s=q.a
+A.ej(A.dg(0,B.c.N(2000/s.a.e)),s.gqq(),t.H)}else{s=q.a
 r=s.a.f
 if(r!=null&&B.b.n(r,q.d.b))s.Ho(q.d)}},
 $S:0}
@@ -95135,7 +95136,7 @@ $S:0}
 A.a6k.prototype={
 $0(){var s=this.a
 s.uy()
-A.ej(A.dg(0,B.c.N(700/s.a.e)),s.gqq(),t.H)},
+A.ej(A.dg(0,B.c.N(2000/s.a.e)),s.gqq(),t.H)},
 $S:11}
 A.a6e.prototype={
 $1(a){var s=null,r=A.u(a).ax.a===B.x,q=t.p,p=A.an(A.a([A.cI(B.qr,r?B.h1:B.ba,s,s),B.Y,B.a2s],q),B.j,B.h,B.i),o=A.fw(!1,B.D1,s,s,B.ab,s,s,s,s,new A.a6c(a),s,s)
