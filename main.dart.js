@@ -31074,7 +31074,7 @@ abe:function abe(){},
 abi:function abi(){},
 w2(a,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=a.c
 if(b==null){b=t.z
-return A.ae(["grade","N/A","letter","N/A","value",0,"factors",A.u(b,b)],t.N,b)}s=a.a
+return A.ae(["grade","N/A","letter","N/A","value",0,"colorScore",50,"factors",A.u(b,b)],t.N,b)}s=a.a
 r=b.d
 q=b.c
 p=s-r
@@ -31091,7 +31091,7 @@ k=1+b}i=A.f_(s)
 if(r>0&&r<=262){h=A.f_(r)
 g=(h-i)/100}else{g=0
 h=0}f=p*n
-e=f*0.5+m*5*0.25+(k-1)*20*0.15+g*0.1
+e=f*0.4+m*5*0.25+(k-1)*20*0.25+g*0.1
 b=t.N
 d=t.z
 c=A.ae(["baseValueDiff",p,"adjustedValueDiff",f,"positionCoefficient",m,"needFactor",k,"needIndex",j,"roundFactor",n,"draftValueDiff",g,"pickValue",i,"projectedPickValue",h,"round",o],b,d)
