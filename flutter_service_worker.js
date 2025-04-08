@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a22eed48d51112e52fd2580ac2b55112",
+const RESOURCES = {"flutter_bootstrap.js": "d1bea200870a6c72910872232f924e4e",
 "version.json": "a7d279fdf72a0a2396edc1aa45a2bb25",
 "index.html": "ec15e0e5f9ec634b53727f4a0e8d113e",
 "/": "ec15e0e5f9ec634b53727f4a0e8d113e",
@@ -30,7 +30,7 @@ const RESOURCES = {"flutter_bootstrap.js": "a22eed48d51112e52fd2580ac2b55112",
 "assets/assets/2024/available_players.csv": "9a801b237d2fd1926d29733c5d57f1ee",
 "assets/assets/2024/team_needs.csv": "4887cb9e45637441a05c0d2ef84cb3e6",
 "assets/assets/2024/draft_order.csv": "8ce904bd2c7f7e30aef984b2cadd4467",
-"assets/assets/draft_value_chart.csv": "1867ec3b53eae5a45db7192ffd00df0b",
+"assets/assets/draft_value_chart.csv": "7f9157457759e5c2f5969fef2718ee51",
 "canvaskit/skwasm.js": "ac0f73826b925320a1e9b0d3fd7da61c",
 "canvaskit/skwasm.js.symbols": "96263e00e3c9bd9cd878ead867c04f3c",
 "canvaskit/canvaskit.js.symbols": "efc2cd87d1ff6c586b7d4c7083063a40",
