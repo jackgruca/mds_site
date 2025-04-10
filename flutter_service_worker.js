@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "f692f6bfe0262c12dc40de6fb0f3d188",
+const RESOURCES = {"flutter_bootstrap.js": "588119f0519206865407eac7c6bca46b",
 "version.json": "a7d279fdf72a0a2396edc1aa45a2bb25",
 "index.html": "ec15e0e5f9ec634b53727f4a0e8d113e",
 "/": "ec15e0e5f9ec634b53727f4a0e8d113e",
@@ -24,7 +24,7 @@ const RESOURCES = {"flutter_bootstrap.js": "f692f6bfe0262c12dc40de6fb0f3d188",
 "assets/AssetManifest.bin": "2a20c7787d5ab44ba30904f0849b2988",
 "assets/fonts/MaterialIcons-Regular.otf": "bbd4a7b9e4097f27921534857f76f4c6",
 "assets/assets/2025/player_descriptions.csv": "9fd4ecc0ba603a9a505f2462c07c5e79",
-"assets/assets/2025/available_players.csv": "f8496d4e58b2c0019961f7a22ea38614",
+"assets/assets/2025/available_players.csv": "058cf35fa45cff26a000c1da002c15e0",
 "assets/assets/2025/team_needs.csv": "902e46ae2a3bf2a7aaa5b0c6be275bde",
 "assets/assets/2025/draft_order.csv": "2fd1360cc394c791bf97eec9fe06985f",
 "assets/assets/2024/available_players.csv": "9a801b237d2fd1926d29733c5d57f1ee",
