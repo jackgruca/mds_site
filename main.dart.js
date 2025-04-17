@@ -108850,7 +108850,7 @@ if(m){m=c.cy
 m.toString
 m=c.ajC(m)}else{m=t.t_
 m=A.t(a).ax.a===B.u?A.a([B.bm,B.dK],m):A.a([B.c0,B.eK],m)}l=A.a([new A.bH(0,B.ai,A.V(51,B.bR.gj(0)>>>16&255,B.bR.gj(0)>>>8&255,B.bR.gj(0)&255),B.cy,1)],t.V)
-m=A.a2(b,A.a7(A.a([A.aF(c.aeF(),1),A.b4U(B.OT,B.a7r,new A.afh(c),A.V2(b,b,b,b,b,b,b,b,b,b,b,b,B.aQ,b,b,b,b,B.iq,b,B.co))],s),B.j,B.e,B.f,b,b),B.i,b,b,new A.ad(b,b,b,b,l,new A.ik(B.hy,B.iR,B.cM,m,b,b),B.o),b,b,b,B.jF,b,b,b)
+m=A.a2(b,A.a7(A.a([A.aF(c.aeF(),1),A.b4U(B.OT,B.a7s,new A.afh(c),A.V2(b,b,b,b,b,b,b,b,b,b,b,b,B.aQ,b,b,b,b,B.iq,b,B.co))],s),B.j,B.e,B.f,b,b),B.i,b,b,new A.ad(b,b,b,b,l,new A.ik(B.hy,B.iR,B.cM,m,b,b),B.o),b,b,b,B.jF,b,b,b)
 l=c.Q
 k=J.f_(c.at,new A.afi())
 k=A.L(k,!0,k.$ti.i("o.E"))
@@ -110291,7 +110291,7 @@ $S:0}
 A.aNW.prototype={
 $1(a){var s=this,r=null,q=s.c,p=A.ok(!0,B.cg,!1,r,!0,B.D,r,A.rH(),q,r,r,r,r,r,2,B.t6,B.F,!0,r,!0,r,!1,r,B.c7,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,!1,r,!0,r,B.bO,r,r,B.c_,B.bN,r,r,r,r,r,r,r,B.au,r,B.d7,r,r,r,r),o=s.a,n=o.a,m=s.b,l=m.x,k=A.O(l),j=k.i("dZ<1,da<i>>"),i=s.d,h=t.p,g=s.e
 n=A.ds(A.a6(A.a([p,B.y,A.a7(A.a([A.aF(A.agp(B.t7,r,A.L(new A.dZ(new A.a9(l,new A.aNR(),k.i("a9<1>")),new A.aNS(),j),!0,j.i("o.E")),new A.aNT(o),r,n,t.N),1),B.dV,A.aX(A.ok(!0,B.cg,!1,r,!0,B.D,r,A.rH(),i,r,r,r,r,r,2,B.PD,B.F,!0,r,!0,r,!1,r,B.c7,r,r,r,B.a12,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,!1,r,!0,r,B.bO,r,r,B.c_,B.bN,r,r,r,r,r,r,r,B.au,r,B.d7,r,r,r,r),r,80)],h),B.j,B.e,B.f,r,r),B.y,A.ok(!0,B.cg,!1,r,!0,B.D,r,A.rH(),g,r,r,r,r,r,2,B.t8,B.F,!0,r,!0,r,!1,r,B.c7,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,!1,r,!0,r,B.bO,r,r,B.c_,B.bN,r,r,r,r,r,r,r,B.au,r,B.d7,r,r,r,r)],h),B.j,B.e,B.I),r,B.F,r,r,B.U)
-return A.fC(A.a([A.dj(!1,B.d8,r,r,B.a_,r,r,r,r,new A.aNU(a),r,r),A.dj(!1,B.a7q,r,r,B.a_,r,r,r,r,new A.aNV(o,m,a,q,g,i,s.f),r,r)],h),r,r,n,r,r,B.a6y)},
+return A.fC(A.a([A.dj(!1,B.d8,r,r,B.a_,r,r,r,r,new A.aNU(a),r,r),A.dj(!1,B.a7r,r,r,B.a_,r,r,r,r,new A.aNV(o,m,a,q,g,i,s.f),r,r)],h),r,r,n,r,r,B.a6y)},
 $S:37}
 A.aNR.prototype={
 $1(a){return a!=="All"},
@@ -110548,7 +110548,7 @@ $0(){A.ep(!0,new A.aSd(this.a),this.b,t.z)},
 $S:0}
 A.aSd.prototype={
 $1(a){var s=null
-return A.fC(A.a([A.dj(!1,B.d8,s,s,B.a_,s,s,s,s,new A.aSb(a),s,s),A.dj(!1,B.oC,s,s,B.a_,s,s,s,s,new A.aSc(this.a,a),s,s)],t.p),s,s,B.a7y,s,s,B.a88)},
+return A.fC(A.a([A.dj(!1,B.d8,s,s,B.a_,s,s,s,s,new A.aSb(a),s,s),A.dj(!1,B.oC,s,s,B.a_,s,s,s,s,new A.aSc(this.a,a),s,s)],t.p),s,s,B.a7z,s,s,B.a88)},
 $S:37}
 A.aSb.prototype={
 $0(){A.bo(this.a,!1).dH(null)
@@ -110806,7 +110806,7 @@ m.push(A.a2(a,A.a7(A.a([B.OM,B.Y,A.m("You are controlling: "+l+" "+k,a,a,a,a,B.a
 k=q/2
 i=b.cx
 h=t.r7
-l=A.aF(A.a2(a,A.a6(A.a([A.a2(a,B.a7l,B.i,p,a,a,a,a,a,new A.aj(q,6,q,6),a,a,1/0),A.aF(A.aZe(i.gbz(i).e6(0,new A.azc(b,r,a3,p,s,a1),h).cR(0),new A.aj(k,k,k,k),a,!1),1)],a0),B.j,B.e,B.f),B.i,a,a,new A.ad(l,a,a,B.FQ,a,a,B.o),a,a,a,a,a,a,a),1)
+l=A.aF(A.a2(a,A.a6(A.a([A.a2(a,B.a7m,B.i,p,a,a,a,a,a,new A.aj(q,6,q,6),a,a,1/0),A.aF(A.aZe(i.gbz(i).e6(0,new A.azc(b,r,a3,p,s,a1),h).cR(0),new A.aj(k,k,k,k),a,!1),1)],a0),B.j,B.e,B.f),B.i,a,a,new A.ad(l,a,a,B.FQ,a,a,B.o),a,a,a,a,a,a,a),1)
 i=t.t_
 i=A.aX(A.a2(a,a,B.i,a,a,new A.ad(a,a,a,a,a,new A.ik(B.hx,B.hw,B.cM,a3?A.a([B.X,B.bh,B.X],i):A.a([B.ax,B.k,B.ax],i),a,a),B.o),a,a,a,a,a,a,a),a,6)
 g=a3?B.bh:B.cb
@@ -111202,7 +111202,7 @@ i=p.Q
 i=A.aya(B.K,k?new A.aTt(p):o,B.a8L,B.a7N,i)
 s=p.as
 r=t.jK
-return A.ds(A.a6(A.a([n,B.ab,B.a6t,B.y,l,B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a8d,B.y,j,i,A.aya(B.K,k?new A.aTu(p):o,B.a7t,B.a8f,s)],m),B.q,B.e,B.f),o),o,1,o,B.dm,o),A.bR(new A.P(B.W,A.a6(A.a([B.a6g,B.y,A.aya(B.K,new A.aTv(p),B.a65,B.a6X,p.at),B.Ww,A.i_(B.ae,A.L(new A.K(A.a([2023,2024,2025],t.t),new A.aTw(p,a),r),!0,r.i("a8.E")),B.bV,0,8)],m),B.q,B.e,B.f),o),o,1,o,B.dm,o),A.bC(A.azl(B.k2,B.EK,new A.aTx(p),A.oi(o,o,o,o,o,o,o,o,o,B.at,o,o,o,o,o,o,o,o,o)),o,o)],m),B.q,B.e,B.f),o,B.F,B.W,o,B.U)}}
+return A.ds(A.a6(A.a([n,B.ab,B.a6t,B.y,l,B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a8d,B.y,j,i,A.aya(B.K,k?new A.aTu(p):o,B.a7u,B.a8f,s)],m),B.q,B.e,B.f),o),o,1,o,B.dm,o),A.bR(new A.P(B.W,A.a6(A.a([B.a6g,B.y,A.aya(B.K,new A.aTv(p),B.a65,B.a6X,p.at),B.Ww,A.i_(B.ae,A.L(new A.K(A.a([2023,2024,2025],t.t),new A.aTw(p,a),r),!0,r.i("a8.E")),B.bV,0,8)],m),B.q,B.e,B.f),o),o,1,o,B.dm,o),A.bC(A.azl(B.k2,B.EK,new A.aTx(p),A.oi(o,o,o,o,o,o,o,o,o,B.at,o,o,o,o,o,o,o,o,o)),o,o)],m),B.q,B.e,B.f),o,B.F,B.W,o,B.U)}}
 A.aTG.prototype={
 $0(){this.a.f="User not logged in"},
 $S:0}
@@ -112834,7 +112834,7 @@ A.t(a)
 s=p.e
 r=t.fo
 q=t.p
-s=A.a7(A.a([B.a7u,B.Y,A.kM(o,o,o,o,24,!1,A.L(new A.K(A.a(["Team Performance","Player Correlations","Historical Trends"],t.s),new A.aBN(),r),!0,r.i("a8.E")),new A.aBO(p),o,o,o,s,t.N)],q),B.j,B.e,B.f,o,o)
+s=A.a7(A.a([B.a7v,B.Y,A.kM(o,o,o,o,24,!1,A.L(new A.K(A.a(["Team Performance","Player Correlations","Historical Trends"],t.s),new A.aBN(),r),!0,r.i("a8.E")),new A.aBO(p),o,o,o,s,t.N)],q),B.j,B.e,B.f,o,o)
 r=p.d?B.mE:A.aF(A.ds(p.aeD(),o,B.F,B.W,o,B.U),1)
 return A.a6(A.a([new A.P(B.W,s,o),r],q),B.q,B.e,B.f)},
 aeD(){var s=this
@@ -113599,7 +113599,7 @@ q=t.p
 s=A.a7(A.a([B.EJ,B.Y,A.kM(o,o,o,o,24,!1,A.L(new A.K(A.a([1,2,3,4],t.t),new A.aJ_(),r),!0,r.i("a8.E")),new A.aJ0(p),o,o,o,s,t.S)],q),B.j,B.e,B.f,o,o)
 if(p.d)r=B.mE
 else{r=p.e
-r=A.aF(A.ds(A.a6(A.a([A.bR(new A.P(B.W,A.a6(A.a([A.m("Position Trends (Round "+r+")",o,o,o,o,B.b6,o,o),B.ab,B.a86,B.y,p.aev(r)],q),B.q,B.e,B.f),o),o,2,o,o,o),B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a7B,B.ab,B.a5U,B.y,p.aer()],q),B.q,B.e,B.f),o),o,2,o,o,o),B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a6i,B.ab,B.a7W,B.y,p.aeq()],q),B.q,B.e,B.f),o),o,2,o,o,o)],q),B.q,B.e,B.f),o,B.F,B.W,o,B.U),1)}return A.a6(A.a([new A.P(B.W,s,o),r],q),B.q,B.e,B.f)},
+r=A.aF(A.ds(A.a6(A.a([A.bR(new A.P(B.W,A.a6(A.a([A.m("Position Trends (Round "+r+")",o,o,o,o,B.b6,o,o),B.ab,B.a86,B.y,p.aev(r)],q),B.q,B.e,B.f),o),o,2,o,o,o),B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a7C,B.ab,B.a5U,B.y,p.aer()],q),B.q,B.e,B.f),o),o,2,o,o,o),B.y,A.bR(new A.P(B.W,A.a6(A.a([B.a6i,B.ab,B.a7W,B.y,p.aeq()],q),B.q,B.e,B.f),o),o,2,o,o,o)],q),B.q,B.e,B.f),o,B.F,B.W,o,B.U),1)}return A.a6(A.a([new A.P(B.W,s,o),r],q),B.q,B.e,B.f)},
 aev(a){var s,r,q,p,o,n,m,l,k,j,i,h=this.f.h(0,"Round "+a)
 if(h==null||J.cZ(h))return B.J5
 s=A.r(t.N,t.Cm)
@@ -114301,7 +114301,7 @@ n.push(B.y)
 n.push(A.dj(!1,B.a8w,o,o,B.a_,o,o,o,o,new A.aKh(p),o,A.oi(o,o,o,o,o,o,o,o,o,a?B.aP:B.ap,o,o,o,o,o,o,o,o,o)))
 return A.ajE(A.a6(n,B.dL,B.e,B.I),p.d)},
 aeG(){var s=null
-return A.a6(A.a([B.rZ,B.y,B.a6M,B.y,A.m("We've sent password reset instructions to "+this.e.a.a+". Please check your email.",s,s,s,s,s,B.B,s),B.d3,A.fZ(!1,B.a7n,s,s,B.a_,s,s,s,s,this.gar7(),s,A.ef(s,s,s,s,s,s,s,s,s,s,s,s,B.mA,s,s,s,s,s,s)),B.ab,A.dj(!1,B.eA,s,s,B.a_,s,s,s,s,new A.aKi(this),s,s)],t.p),B.j,B.e,B.I)}}
+return A.a6(A.a([B.rZ,B.y,B.a6M,B.y,A.m("We've sent password reset instructions to "+this.e.a.a+". Please check your email.",s,s,s,s,s,B.B,s),B.d3,A.fZ(!1,B.a7o,s,s,B.a_,s,s,s,s,this.gar7(),s,A.ef(s,s,s,s,s,s,s,s,s,s,s,s,B.mA,s,s,s,s,s,s)),B.ab,A.dj(!1,B.eA,s,s,B.a_,s,s,s,s,new A.aKi(this),s,s)],t.p),B.j,B.e,B.I)}}
 A.aKk.prototype={
 $0(){var s=this.a
 s.f=!0
@@ -114425,7 +114425,7 @@ return A.y($async$wK,r)},
 G(a){var s=null,r=A.t(a).ax.a===B.u,q=A.ac(16),p=r?B.X:B.k
 return A.DK(s,p,A.ds(new A.P(B.bO,this.x?this.asb():this.aey(r),s),s,B.F,s,s,B.U),s,s,s,s,new A.bX(q,B.t),s)},
 aey(a){var s,r,q,p=this,o=null,n=t.p
-n=A.a([A.a7(A.a([A.c_(B.rR,a?B.aP:B.ap,o,o),B.Y,B.a7s,B.cm,A.dD(o,B.bM,o,B.k1,o,o,new A.aPK(p),B.K,o,o,o,o)],n),B.j,B.e,B.f,o,o),B.y,A.m("Enter the reset code sent to "+p.a.c+" and create a new password.",o,o,o,o,B.dY,o,o),B.y],n)
+n=A.a([A.a7(A.a([A.c_(B.rR,a?B.aP:B.ap,o,o),B.Y,B.a7t,B.cm,A.dD(o,B.bM,o,B.k1,o,o,new A.aPK(p),B.K,o,o,o,o)],n),B.j,B.e,B.f,o,o),B.y,A.m("Enter the reset code sent to "+p.a.c+" and create a new password.",o,o,o,o,B.dY,o,o),B.y],n)
 s=p.y
 if(s!=null){r=A.ac(4)
 q=A.bm(B.e9,1)
@@ -115183,7 +115183,7 @@ A.aeg.prototype={
 $0(){return A.bo(this.a,!1).cM()},
 $S:0}
 A.Sa.prototype={
-G(a){var s=this,r=null,q=t.p,p=A.a6(A.a([A.aX(A.aiW(B.mU,!0,s.r,"Restart Draft"),48,48),B.bf,B.a7D],q),B.j,B.e,B.I),o=s.c,n=o?"Pause Draft":"Start Draft"
+G(a){var s=this,r=null,q=t.p,p=A.a6(A.a([A.aX(A.aiW(B.mU,!0,s.r,"Restart/Undo"),48,48),B.bf,B.a7l],q),B.j,B.e,B.I),o=s.c,n=o?"Pause Draft":"Start Draft"
 n=A.aX(A.aiW(A.c_(o?B.O7:B.O9,r,r,r),!0,s.f,n),48,48)
 n=A.a6(A.a([n,B.bf,A.m(o?"Pause":"Start",r,r,r,r,B.bT,r,r)],q),B.j,B.e,B.I)
 o=s.e
@@ -115479,7 +115479,7 @@ n=r.r
 m=A.m("Their pick: "+B.c.H(n,0)+" points",i,i,i,i,i,i,i)
 l=B.c.H(p-n,0)
 k=t.p
-l=A.a([s,B.y,B.a7w,B.ab,q,B.y,B.a7e,B.ab,o,m,A.m("Difference: "+l+" points",i,i,i,i,A.W(i,i,p>=n?B.ad:B.at,i,i,i,i,i,i,i,i,i,i,i,B.n,i,i,!0,i,i,i,i,i,i,i,i),i,i)],k)
+l=A.a([s,B.y,B.a7x,B.ab,q,B.y,B.a7e,B.ab,o,m,A.m("Difference: "+l+" points",i,i,i,i,A.W(i,i,p>=n?B.ad:B.at,i,i,i,i,i,i,i,i,i,i,i,B.n,i,i,!0,i,i,i,i,i,i,i,i),i,i)],k)
 if(!h&&j.e!=null){s=j.e
 s.toString
 B.b.K(l,A.a([B.y,B.a8A,B.ab,A.m(s,i,i,i,i,B.dx,i,i)],k))}l.push(B.y)
@@ -121661,8 +121661,8 @@ B.a5G=new A.T("@StickToTheModel on X",null,B.a2k,null,null,null,null,null,null,n
 B.IQ=new A.cm(B.J,null,null,B.a5G,null)
 B.a8j=new A.T("Please select a team to view community analytics",null,null,null,null,null,null,null,null,null,null)
 B.IS=new A.cm(B.J,null,null,B.a8j,null)
-B.a7o=new A.T("No round 1 position data available",null,null,null,null,null,null,null,null,null,null)
-B.IT=new A.cm(B.J,null,null,B.a7o,null)
+B.a7p=new A.T("No round 1 position data available",null,null,null,null,null,null,null,null,null,null)
+B.IT=new A.cm(B.J,null,null,B.a7p,null)
 B.a7a=new A.T("Select a team to edit needs",null,null,null,null,null,null,null,null,null,null)
 B.IU=new A.cm(B.J,null,null,B.a7a,null)
 B.a63=new A.T("No historical trend data available",null,null,null,null,null,null,null,null,null,null)
@@ -121678,8 +121678,8 @@ B.IZ=new A.cm(B.J,null,null,B.WF,null)
 B.a8b=new A.T("No consensus need data available",null,null,null,null,null,null,null,null,null,null)
 B.WJ=new A.P(B.W,B.a8b,null)
 B.J_=new A.cm(B.J,null,null,B.WJ,null)
-B.a7x=new A.T("No team performance data available",null,null,null,null,null,null,null,null,null,null)
-B.J2=new A.cm(B.J,null,null,B.a7x,null)
+B.a7y=new A.T("No team performance data available",null,null,null,null,null,null,null,null,null,null)
+B.J2=new A.cm(B.J,null,null,B.a7y,null)
 B.a8B=new A.T("No player trend data available",null,null,null,null,null,null,null,null,null,null)
 B.Wy=new A.P(B.W,B.a8B,null)
 B.J3=new A.cm(B.J,null,null,B.Wy,null)
@@ -122050,8 +122050,8 @@ B.F=new A.Sd(1,"start")
 B.LR=new A.Sf(null)
 B.LS=new A.E1(null,null,null,null,null,null,null,null,null)
 B.G=new A.A(!0,null,null,null,null,null,null,B.n,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a7p=new A.T("All Teams",null,B.G,null,null,null,null,null,null,null,null)
-B.LT=new A.da("All Teams",B.a7p,B.cQ,null,t.b7)
+B.a7q=new A.T("All Teams",null,B.G,null,null,null,null,null,null,null,null)
+B.LT=new A.da("All Teams",B.a7q,B.cQ,null,t.b7)
 B.a8g=new A.T("All Teams",null,null,null,null,null,null,null,null,null,null)
 B.LU=new A.da("All Teams",B.a8g,B.cQ,null,t.b7)
 B.a7K=new A.T("All Rounds",null,null,null,null,null,null,null,null,null,null)
@@ -123875,8 +123875,8 @@ B.EC=new A.A(!0,B.bR,null,null,null,null,11,B.n,null,null,null,null,null,null,nu
 B.a6P=new A.T("2025 Draft",null,B.EC,null,null,null,null,null,null,null,null)
 B.IV=new A.cm(B.J,null,null,B.a6P,null)
 B.N3=new A.dO(1,B.cf,B.IV,null)
-B.a7C=new A.T("2026 Draft",null,B.EC,null,null,null,null,null,null,null,null)
-B.J1=new A.cm(B.J,null,null,B.a7C,null)
+B.a7D=new A.T("2026 Draft",null,B.EC,null,null,null,null,null,null,null,null)
+B.J1=new A.cm(B.J,null,null,B.a7D,null)
 B.N2=new A.dO(1,B.cf,B.J1,null)
 B.SF=A.a(s([B.N3,B.N2]),t.p)
 B.Yf=new A.fq(B.al,B.e,B.f,B.j,null,B.aS,null,0,B.SF,null)
@@ -123917,8 +123917,8 @@ B.XA=new A.yH(3,"scale")
 B.XB=new A.yH(4,"unknown")
 B.XC=new A.GB(null)
 B.Y=new A.cH(8,null,null,null)
-B.a7z=new A.T("Profile Settings",null,null,null,null,null,null,null,null,null,null)
-B.RL=A.a(s([B.mW,B.Y,B.a7z]),t.p)
+B.a7A=new A.T("Profile Settings",null,null,null,null,null,null,null,null,null,null)
+B.RL=A.a(s([B.mW,B.Y,B.a7A]),t.p)
 B.Yb=new A.fq(B.al,B.e,B.f,B.j,null,B.aS,null,0,B.RL,null)
 B.XD=new A.nW("profile",!0,B.Yb,null,t.wI)
 B.O3=new A.b_(58291,!1)
@@ -124003,8 +124003,8 @@ B.a6R=new A.T("Leverage",null,B.a21,null,null,null,null,null,null,null,null)
 B.Sn=A.a(s([B.P0,B.E0,B.a6R]),t.p)
 B.Y7=new A.fq(B.al,B.e,B.I,B.j,null,B.aS,null,0,B.Sn,null)
 B.a_s=new A.cH(32,null,null,null)
-B.a7m=new A.T("Rank",null,B.G,null,null,null,null,null,null,null,null)
-B.IX=new A.cm(B.J,null,null,B.a7m,null)
+B.a7n=new A.T("Rank",null,B.G,null,null,null,null,null,null,null,null)
+B.IX=new A.cm(B.J,null,null,B.a7n,null)
 B.a_q=new A.cH(50,null,B.IX,null)
 B.a8z=new A.T("Name",null,B.G,null,null,null,null,null,null,null,null)
 B.N5=new A.dO(1,B.cf,B.a8z,null)
@@ -124337,12 +124337,12 @@ B.a7M=new A.T("Image copied to clipboard successfully!",null,null,null,null,null
 B.a_P=new A.f9(B.a7M,null,null,null,null,null,null,null,null,null,null,null,null,B.eg,null,null,null,B.D,null)
 B.a6U=new A.T("Could not undo the last action",null,null,null,null,null,null,null,null,null,null)
 B.a_Q=new A.f9(B.a6U,null,null,null,null,null,null,null,null,null,null,null,null,B.eg,null,null,null,B.D,null)
-B.a7A=new A.T("No available picks to trade",null,null,null,null,null,null,null,null,null,null)
-B.a_R=new A.f9(B.a7A,null,null,null,null,null,null,null,null,null,null,null,null,B.eg,null,null,null,B.D,null)
+B.a7B=new A.T("No available picks to trade",null,null,null,null,null,null,null,null,null,null)
+B.a_R=new A.f9(B.a7B,null,null,null,null,null,null,null,null,null,null,null,null,B.eg,null,null,null,B.D,null)
 B.a6L=new A.T("Image copied to clipboard",null,null,null,null,null,null,null,null,null,null)
 B.a_T=new A.f9(B.a6L,null,null,null,null,null,null,null,null,null,null,null,null,B.eg,null,null,null,B.D,null)
-B.a7v=new A.T("Invalid player rankings format",null,null,null,null,null,null,null,null,null,null)
-B.a_S=new A.f9(B.a7v,null,null,null,null,null,null,null,null,null,null,null,null,B.bB,null,null,null,B.D,null)
+B.a7w=new A.T("Invalid player rankings format",null,null,null,null,null,null,null,null,null,null)
+B.a_S=new A.f9(B.a7w,null,null,null,null,null,null,null,null,null,null,null,null,B.bB,null,null,null,B.D,null)
 B.a8i=new A.T("You have been signed out",null,null,null,null,null,null,null,null,null,null)
 B.a_U=new A.f9(B.a8i,B.a1,null,null,null,null,null,null,null,null,null,null,null,B.bB,null,null,null,B.D,null)
 B.E7=new A.If(0,"permissive")
@@ -124867,18 +124867,18 @@ B.a7i=new A.T("Reset Password",null,null,null,null,null,null,null,null,null,null
 B.a7j=new A.T("View and manage user feedback messages",null,null,null,null,null,null,null,null,null,null)
 B.a23=new A.A(!0,B.a1,null,null,null,null,13,B.n,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a7k=new A.T("Trade with:",null,B.a23,null,null,null,null,null,null,null,null)
-B.a7l=new A.T("AFC",null,B.l2,B.B,null,null,null,null,null,null,null)
-B.a7n=new A.T("Enter Reset Code",null,null,null,null,null,null,null,null,null,null)
-B.a7q=new A.T("Save",null,null,null,null,null,null,null,null,null,null)
-B.a7r=new A.T("Your Picks",null,null,null,null,null,null,null,null,null,null)
-B.a7s=new A.T("Reset Password",null,B.b6,null,null,null,null,null,null,null,null)
-B.a7t=new A.T(u.C,null,null,null,null,null,null,null,null,null,null)
-B.a7u=new A.T("Metric:",null,B.aM,null,null,null,null,null,null,null,null)
+B.a7l=new A.T("Restart/Undo",null,B.bT,null,null,null,null,null,null,null,null)
+B.a7m=new A.T("AFC",null,B.l2,B.B,null,null,null,null,null,null,null)
+B.a7o=new A.T("Enter Reset Code",null,null,null,null,null,null,null,null,null,null)
+B.a7r=new A.T("Save",null,null,null,null,null,null,null,null,null,null)
+B.a7s=new A.T("Your Picks",null,null,null,null,null,null,null,null,null,null)
+B.a7t=new A.T("Reset Password",null,B.b6,null,null,null,null,null,null,null,null)
+B.a7u=new A.T(u.C,null,null,null,null,null,null,null,null,null,null)
+B.a7v=new A.T("Metric:",null,B.aM,null,null,null,null,null,null,null,null)
 B.EK=new A.T("Reset to Defaults",null,null,null,null,null,null,null,null,null,null)
-B.a7w=new A.T("Trade Summary:",null,B.G,null,null,null,null,null,null,null,null)
-B.a7y=new A.T("Are you sure you want to reset all team needs to their default values?",null,null,null,null,null,null,null,null,null,null)
-B.a7B=new A.T("Overall Position Distribution",null,B.b6,null,null,null,null,null,null,null,null)
-B.a7D=new A.T("Restart",null,B.bT,null,null,null,null,null,null,null,null)
+B.a7x=new A.T("Trade Summary:",null,B.G,null,null,null,null,null,null,null,null)
+B.a7z=new A.T("Are you sure you want to reset all team needs to their default values?",null,null,null,null,null,null,null,null,null,null)
+B.a7C=new A.T("Overall Position Distribution",null,B.b6,null,null,null,null,null,null,null,null)
 B.a7E=new A.T("Value Picks (Drafted Later Than Rank)",null,B.b6,null,null,null,null,null,null,null,null)
 B.a3h=new A.A(!0,null,null,null,null,null,12,null,B.bP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a7F=new A.T("Example pairings:",null,B.a3h,null,null,null,null,null,null,null,null)
