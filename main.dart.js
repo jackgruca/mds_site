@@ -31112,7 +31112,7 @@ _.r=a
 _.w=2025
 _.x=b
 _.y=0.5
-_.z=0.3
+_.z=0.4
 _.ay=_.ax=_.at=_.as=_.Q=!0
 _.CW=_.ch=null
 _.cx=c
@@ -109505,7 +109505,7 @@ s.e=0.5
 s.f=3
 s.y=s.x=s.w=s.r=!0
 s.Q=0.5
-s.as=0.3},
+s.as=0.4},
 $S:0}
 A.aHY.prototype={
 $0(){A.be3(this.b,this.a.ax++)},
@@ -111754,7 +111754,7 @@ s=t.Uo
 r=t.i
 m=A.r(s,r)
 l=A.r(s,t.V0)
-for(k=t.N,j=d2.r,i=q<=32,h=q<=15,g=q<=5,f=d2.x,e=f*0.4,d=0.3+e,c=0.7-e,e=d2.id,b=d2.go,a=d2.a,a0=A.O(a).i("a9<1>"),a1=a0.i("a9<o.E>"),a2=a1.i("o.E"),a3=0;a3<n;++a3)if(a3<d8.length){a4=d8[a3]
+for(k=t.N,j=d2.r,i=q<=32,h=q<=15,g=q<=5,f=d2.x,e=f*0.3,d=0.2+e,c=0.8-e,e=d2.id,b=d2.go,a=d2.a,a0=A.O(a).i("a9<1>"),a1=a0.i("a9<o.E>"),a2=a1.i("o.E"),a3=0;a3<n;++a3)if(a3<d8.length){a4=d8[a3]
 if(a4==="-"||a4.length===0)continue
 a5=d7.a+="\nEvaluating need: "+a4+" (Priority: "+(a3+1)+")\n"
 a6=A.L(new A.a9(new A.a9(a,new A.afZ(a4),a0),new A.ag_(e0),a1),!0,a2)
@@ -111799,24 +111799,24 @@ d8=A.aZT(new A.a9(a,new A.ag2(e0),a0),5,a0.i("o.E"))
 c2=A.L(d8,!0,A.n(d8).i("o.E"))
 d8="\nEvaluating Top 5 BPA candidates (Weight: "+B.c.H(c1,2)+"):\n"
 d7.a+=d8
-for(d8=c2.length,c3=0;c3<d8;++c3){c4=c2[c3]
+for(d8=c2.length,f*=0.4,j=0.4*(0.3+f),f=0.7-f,c3=0;c3<d8;++c3){c4=c2[c3]
 if(m.ah(0,c4))continue
 a7=b.h(0,c4.c)
 if(a7==null)a7=1
-a8=e.h(0,c4.c)
+i=c4.c
+if(i==="QB")a7=0.5
+a8=e.h(0,i)
 if(a8==null)a8=1
 b5=q-c4.d
-j=(b5>=0?Math.min(1,b5/10):Math.max(-0.5,b5/20))*0.5*c1
-i=a7*0.15
-h=a8*0.05
-b9=A.af(["needFactor",0.15,"valueScore",j,"positionWeight",i,"scarcityFactor",h],k,r)
+b6=b5>=0?Math.min(1,b5/10):Math.max(-0.5,b5/20)
+b9=A.af(["needFactor",j,"valueScore",b6*f*c1,"positionWeight",a7*0.2,"scarcityFactor",a8*0.1],k,r)
 c0=b9.gaU(0).hs(0,new A.ag3())
 m.p(0,c4,c0)
 l.p(0,c4,b9)
-g=d7.a+="  - "+c4.b+" ("+c4.c+") - Rank #"+c4.d+":\n"
-h=g+(d3+B.c.H(0.15,3)+d4+B.c.H(j,3)+d5+B.c.H(i,3)+" | Scarcity: "+B.c.H(h,3)+"\n")
-d7.a=h
-d7.a=h+("    Value Gap: "+b5+d6+B.c.H(c0,3)+"\n")}if(m.a===0){d8=d7.a+="\nNo players evaluated, falling back to best available\n"
+i=d7.a+="  - "+c4.b+" ("+c4.c+") - Rank #"+c4.d+":\n"
+i+=d3+B.c.H(0.12,3)+d4+B.c.H(b6*0.5*c1,3)+d5+B.c.H(a7*0.15,3)+" | Scarcity: "+B.c.H(a8*0.05,3)+"\n"
+d7.a=i
+d7.a=i+("    Value Gap: "+b5+d6+B.c.H(c0,3)+"\n")}if(m.a===0){d8=d7.a+="\nNo players evaluated, falling back to best available\n"
 p=d2.at8(q)
 d8=d7.a=d8+("Selected: "+p.b+" ("+p.c+") - Rank #"+p.d+"\n")
 A.I().$1(d8.charCodeAt(0)==0?d8:d8)
